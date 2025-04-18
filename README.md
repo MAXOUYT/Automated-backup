@@ -4,8 +4,8 @@
 Automated backup scripts based on Windows Server and Windows environment to back up your game saves
 
 ## Language
-  - [zh-CH](#zh-CH)
-  - [en-US](#en-US)
+  - [zh-CH](#zh-cn-更新日志)
+  - [en-US](#en-us--release-notes)
 
 ## zh-CN 更新日志：
 
