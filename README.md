@@ -10,6 +10,8 @@ Automated backup scripts based on Windows Server and Windows environment to back
 ## zh-CN 更新日志：
 
 ### 2025.03.10
+- [Version: beta 0.1.25.03.10](https://github.com/MAXOUYT/Automated-backup/blob/main/beta%200.1.25.03.10.bat)
+
 
 I.创建项目
 
@@ -18,6 +20,7 @@ I.创建项目
 2.使用系统自带的`tar`进行压缩操作
 
 ### 2025.03.20
+- [Version: beta 0.5.25.03.20](https://github.com/MAXOUYT/Automated-backup/blob/main/beta%200.5.25.03.20.bat)
 
 #### 1.更新了页面代码，使批处理脚本保持在 _UTF-8_ 格式下运行
 
@@ -34,6 +37,7 @@ I.创建项目
 ## en-US  Release Notes:
 
 ### 2025.03.10
+- [Version: beta 0.1.25.03.10](https://github.com/MAXOUYT/Automated-backup/blob/main/beta%200.1.25.03.10.bat)
 
 Project Initialization
 
@@ -42,6 +46,7 @@ Implemented a `for /f "tokens=1-n+1 delims=/"` loop to retrieve the current time
 Utilized the system-built `tar` utility for archive compression.
 
 ### 2025.03.20
+- [Version: beta 0.5.25.03.20](https://github.com/MAXOUYT/Automated-backup/blob/main/beta%200.5.25.03.20.bat)
 
 #### 1.Codebase Update
 
