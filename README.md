@@ -31,6 +31,8 @@ I.创建项目
 
 #### 4.新增了文件移动的操作，可将生成的压缩文件移动至用户指定的文件夹中，可在 `DEST_FOLDER` 中修改参数实现
 
+
+- [Version: beta 0.5.25.03.20 参考文档](https://github.com/MAXOUYT/Automated-backup/blob/main/25.03.20.docx)
 ------------------------------------------------------------------------------------------
 
 
@@ -63,3 +65,5 @@ Replaced the native `tar` command with ***bz.exe*** (from the third-party tool [
 #### 4.File Relocation Feature
 
 Added functionality to automatically move generated archives to a user-specified directory. Target path can be configured via the `DEST_FOLDER` parameter.
+
+- [Version: beta 0.5.25.03.20 Variable reference documentation](https://github.com/MAXOUYT/Automated-backup/blob/main/25.03.20.docx)
